@@ -9,3 +9,7 @@
    def count_cars_in_polygon(polygon_corners, img, slots = 5):
    
 # main7.py
+   detects cars from all images in a folder.
+   def get_image_with_box(img, bound_boxes):
+   def get_savelocation(raw_img_path):
+   def _show_both_img(raw_img, detected_img):
